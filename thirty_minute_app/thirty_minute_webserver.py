@@ -14,7 +14,7 @@
 #
 # updated for UW Internet Programming in Python, by Brian Dorsey
 #
-# Blank comment line to trick GIT
+
 
 import os, socket, sys, cgi
 import datetime
