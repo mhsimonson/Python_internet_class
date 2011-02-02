@@ -6,7 +6,7 @@
 ## Tried for another hour to get Python to make a directory.  No dice.  At least got the PDF versions of the links recognized thanks to
 ## a user tip on the class mailing list.
 ## Finally tried to at least get the links pulled from the table, and followed...and getting a Forbidden 403 error trying to get to the
-## Wikipedia Internet Protocol Suite link
+## Wikipedia Internet Protocol Suite link.  Plus, another 30 minutes relearning Git
 ## So, sorry, another incomplete - MHS 2_1_11
 
 ## Useful Links:
