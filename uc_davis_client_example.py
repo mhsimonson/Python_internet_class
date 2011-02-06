@@ -1,7 +1,7 @@
 import socket
 import sys
 
-s=socket.socket(socket.AF_NET, socket.SOCK_STREAM)
+s=socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
 host=sys.argv[1]
 port=int(sys.argv[2])

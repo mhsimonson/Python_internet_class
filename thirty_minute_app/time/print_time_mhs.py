@@ -1,6 +1,5 @@
 #!/usr/bin/env python
-
-
+# Only for Unix
 
 import time
 import datetime

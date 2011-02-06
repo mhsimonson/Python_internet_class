@@ -1,0 +1,10 @@
+1.  I reviewed the help you gave me Sunday at Top Pot, plus your example that you provided later on that evening, to try and understand the concepts.
+2.  I went back into the thirty_minute_server.py script, and got the subprocess.Popen class to pipe back the results of the time.py script.  
+3.  I struggled with how to get the output out of the shell, and into the web browser at HTML.  I had to go back and re-read several times materials on HTML, HTTP, Sockets, & Subprocess primarily.  I didn't have a clear concept of whether my thirty_minute_server.py was generating, as is, an "HTTP Server" or whether I had to change something.
+4.  I tried to figure out how to implement the GET command, thought that might be the key, but couldn't get it placed correctly.
+5.  Finally realized that my print commands go to the shell, while 'return' took it to the client.  Key moment.  Should have noticed that the prints were purple in IDLE, while the returns were orange...for a reason?
+6.  Had to learn some basics of HTML - new territory.
+7.  Then, I had to relearn the difference between GIT Commit and Push, unfortunately.
+8.  Tried to test the server on the Bluebox VM, got the code migrated over OK, but couldn't hit the right address to put in my browser to connect up into my server running on the VM.  Gave it about a dozen tries, then had to go to bed.
+
+

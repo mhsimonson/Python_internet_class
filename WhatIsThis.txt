@@ -1,0 +1,7 @@
+This is a group shared folder for the whole class. 
+
+We can use it both during and between classes to easily exchange files 
+with each other.
+
+Take care,
+-Brian
